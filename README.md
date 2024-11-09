@@ -39,3 +39,5 @@ This means you can use the content and code in this repository except for GitHub
 When you contribute to this repository you are doing so under the above licenses.
 
 This repository is a fork created for training purposes. It is intended to support learning and skill development in using Git and GitHub, as well as to explore open-source collaboration. The materials in this fork follow the original repository’s licensing terms, including the CC-BY-4.0 license for content and CC0-1.0 for code samples. Contributions here are primarily focused on educational use, allowing contributors to practice and refine their open-source contribution workflows.
+
+Coding is amazing!
